@@ -1,0 +1,4 @@
+image: akavinash94docker/backend_app
+namespace: dummy
+cpu: 250m
+memory: 64Mi
